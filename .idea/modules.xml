@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SuperAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/SuperAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SuperAPI_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SuperAPI_main.iml" group="SuperAPI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SuperAPI_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SuperAPI_test.iml" group="SuperAPI" />
+    </modules>
+  </component>
+</project>
